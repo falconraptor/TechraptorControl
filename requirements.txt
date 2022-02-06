@@ -9,4 +9,4 @@ pexpect==4.2.1
 ptyprocess==0.5.1
 pyparsing==2.2.0
 six==1.10.0
-websockets==3.3
+websockets==9.1
